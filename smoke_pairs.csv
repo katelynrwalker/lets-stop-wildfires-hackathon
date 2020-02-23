@@ -1,4 +1,4 @@
-,fPath1,fPath2,label,test_label
+index,fPath1,fPath2,label,test_label
 0,../data/train_data_set/20170625-BBM-bm-n-mobo/1498413993_-02400.jpg,../data/train_data_set/20170625-BBM-bm-n-mobo/1498414053_-02340.jpg,0,False
 1,../data/train_data_set/20170625-BBM-bm-n-mobo/1498414053_-02340.jpg,../data/train_data_set/20170625-BBM-bm-n-mobo/1498414113_-02280.jpg,0,False
 2,../data/train_data_set/20170625-BBM-bm-n-mobo/1498414113_-02280.jpg,../data/train_data_set/20170625-BBM-bm-n-mobo/1498414173_-02220.jpg,0,False
